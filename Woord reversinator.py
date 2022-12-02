@@ -1,0 +1,2 @@
+woord = str(input("Kies het woord dat jij omgedraaid wilt vertonen op het scherm: ")) [::-1] # de dubbele punten -1 geeft aan dat de string aan het einde moet beginnen.
+print(woord) # de print laat dit op het scherm zien.
